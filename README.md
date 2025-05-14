@@ -1,3 +1,6 @@
- ## systemcall
+ ## INSTALLATION OF FEDORA
 
-This document explains the sbrk() system call, which manages memory allocation by adjusting the program’s data segment size. It includes a simple C program demonstrating how to manually allocate and deallocate memory using sbrk(). The program retrieves the current program break, increases the heap space, stores a string in the newly allocated memory, and then reduces the segment size. While sbrk() is a low-level memory management function, modern applications typically use malloc() and free() instead. The document provides a practical example of system call-based memory manipulation.
+This document provides a detailed guide for installing Fedora OS on VMware Workstation. It begins with downloading and installing VMware and obtaining the official Fedora ISO from the Fedora Project website. The guide covers creating a virtual machine, allocating RAM and disk space, and selecting the appropriate installation settings. It then outlines the Fedora installation process, including configuring language, network, and user accounts. Finally, it explains how to reboot the system, remove the ISO file, and log in using the created credentials.
+
+##systemcall
+
