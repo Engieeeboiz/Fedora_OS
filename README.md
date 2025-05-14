@@ -1,3 +1,3 @@
- ##systemcall
+ ## systemcall
 
 This document explains the sbrk() system call, which manages memory allocation by adjusting the program’s data segment size. It includes a simple C program demonstrating how to manually allocate and deallocate memory using sbrk(). The program retrieves the current program break, increases the heap space, stores a string in the newly allocated memory, and then reduces the segment size. While sbrk() is a low-level memory management function, modern applications typically use malloc() and free() instead. The document provides a practical example of system call-based memory manipulation.
