@@ -4,3 +4,5 @@ This document provides a detailed guide for installing Fedora OS on VMware Works
 
 ##systemcall
 
+The document provides an overview of system calls in Fedora OS, with a specific focus on the sbrk() system call. This function is used to manage dynamic memory allocation by adjusting the program's data segment size, which is essential for low-level memory control in C programs. A sample C code snippet demonstrates the use of sbrk(), highlighting both successful memory allocation and proper error handling. Since Fedora is based on the standard Linux kernel, the behavior of sbrk() aligns with other Linux distributions. Overall, the document serves as a concise technical reference for understanding and using sbrk() in a Linux environment.
+
